@@ -1,0 +1,3 @@
+# Harmless sample input for local parsing only
+https://example.org/docs
+https://www.iana.org/domains/reserved
