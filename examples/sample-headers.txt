@@ -1,0 +1,6 @@
+From: Example Billing <billing@example.org>
+Reply-To: help@unrelated-example.test
+Return-Path: <bounce@mailer.example.org>
+Date: Thu, 1 Oct 2026 12:00:00 +0000
+Subject: Example header triage input
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=fail
